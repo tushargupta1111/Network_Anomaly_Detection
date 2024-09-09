@@ -11,6 +11,10 @@ We use the **CSE-CIC-IDS 2018 dataset** by the **Canadian Institute for Cybersec
 - Removal of redundant headers
 - Reduction of dataset size (~6.3GB to ~1.3GB)
 - Stratified random split of data (80% training, 20% validation)
+## Dataset Link 
+   ```bash
+  https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv
+```
 
 The final processed dataset is stored in an Amazon S3 bucket for training purposes.
 
