@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-using-CSE-CIC-IDS-2018-dataset
+# Network-Amonaly-Detection
 
 ## Project Overview
 The primary aim of this project is to enhance the performance of an intrusion detection system using the **XGBoost classifier** through parameter tuning. This project leverages the **CSE-CIC-IDS 2018 dataset**, a widely used benchmark in the cybersecurity domain, to detect and classify network intrusions. Techniques such as **Grid Search** and **Random Search** are employed to optimize hyperparameters and improve performance metrics like accuracy, precision, recall, F1-score, Cohen's Kappa coefficient (CKC), prediction time, and false alarm rate (FAR).
